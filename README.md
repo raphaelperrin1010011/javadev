@@ -32,7 +32,7 @@ Le jar se trouve dans `target/LangFlags-1.0.0.jar`
 
 ## Demo
 
-https://github.com/user-attachments/assets/demo.mp4
+[https://github.com/user-attachments/assets/demo.mp4](https://github.com/raphaelperrin1010011/javadev/blob/main/2026-04-08_09-14-47.mp4)
 
 ## Tech Stack
 
