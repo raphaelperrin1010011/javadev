@@ -1,0 +1,12 @@
+name: LangFlags
+version: '${project.version}'
+main: fr.kingsfall.langflags.LangFlags
+api-version: '1.21'
+authors: [raphaelperrin1010011]
+description: Geolocation-based language detection with flag particles
+
+commands:
+  olympe:
+    description: Show your language / Change language / Toggle flag particles
+    aliases: [flag]
+    usage: /olympe [fr|en|es|de|pt|it|ja|ru|on|off]
